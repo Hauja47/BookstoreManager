@@ -1,4 +1,4 @@
-package com.homework.examschedulemng.utils;
+package com.team15.bookstoremanager.utils;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;
