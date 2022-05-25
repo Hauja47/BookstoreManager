@@ -22,6 +22,9 @@
         <!-- Echo all executed SQL to stdout -->
         <property name="show_sql">true</property>
 
+        <!-- Auto create table -->
+        <property name="hibernate.hbm2ddl.auto">create</property>
+
         <!--Mapping-->
 <!--        <mapping class="com.homework.examschedulemng.models.Phancong"/>-->
     </session-factory>
